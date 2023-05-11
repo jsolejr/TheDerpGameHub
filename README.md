@@ -24,4 +24,4 @@ List of Python-based utilities:
 
 10. Cross-Platform Friends List: Merge and manage friends lists from multiple gaming platforms into one unified list, making it easier to connect with friends and see their online status.
 
-By offering these utilities, GameBuddy aims to simplify gaming experiences, promote social connections among gamers, and encourage users to explore new games and challenges.
+By offering these utilities, The DerpGAmeHub aims to simplify gaming experiences, promote social connections among gamers, and encourage users to explore new games and challenges.
