@@ -1,4 +1,4 @@
-Repository Name: GameBuddy
+Repository Name: Derp Game Hub
 
 Repository Description: GameBuddy is a collection of Python-based utilities designed to enhance the gaming experience for users of popular platforms such as Steam, Discord, and more. By integrating and automating various aspects of these platforms, GameBuddy aims to create a seamless and enjoyable gaming experience.
 
